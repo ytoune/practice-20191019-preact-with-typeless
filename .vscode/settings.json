@@ -1,0 +1,12 @@
+{
+	"editor.formatOnSave": false,
+	"eslint.autoFixOnSave": true,
+	"eslint.enable": true,
+	"eslint.nodePath": "./node_modules",
+	"eslint.options": {
+		"configFile": "./.eslintrc.yml"
+	},
+	"eslint.workingDirectories": ["*"],
+	"editor.rulers": [80],
+	"typescript.tsdk": "./node_modules/typescript/lib"
+}
